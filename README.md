@@ -1,2 +1,2 @@
 # Chatbot-Discord
-For fun
+I doing this project for fun.
